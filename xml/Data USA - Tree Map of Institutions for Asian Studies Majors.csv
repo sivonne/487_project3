@@ -1,0 +1,507 @@
+year,cip_name,cip,university_name,university,grads_total
+2013,"Asian Studies","050103","Samford University","102049",1.0
+2013,"Asian Studies","050103","Arizona State University-Tempe","104151",4.0
+2013,"Asian Studies","050103","California State University-Chico","110538",16.0
+2013,"Asian Studies","050103","California State University-Long Beach","110583",13.0
+2013,"Asian Studies","050103","California State University-Sacramento","110617",8.0
+2013,"Asian Studies","050103","University of California-Berkeley","110635",32.0
+2013,"Asian Studies","050103","University of California-Los Angeles","110662",12.0
+2013,"Asian Studies","050103","University of California-Riverside","110671",6.0
+2013,"Asian Studies","050103","University of California-Santa Barbara","110705",10.0
+2013,"Asian Studies","050103","Claremont McKenna College","112260",2.0
+2013,"Asian Studies","050103","Loyola Marymount University","117946",9.0
+2013,"Asian Studies","050103","University of the Pacific","120883",4.0
+2013,"Asian Studies","050103","Pepperdine University","121150",2.0
+2013,"Asian Studies","050103","Pitzer College","121257",1.0
+2013,"Asian Studies","050103","Pomona College","121345",3.0
+2013,"Asian Studies","050103","University of Redlands","121691",2.0
+2013,"Asian Studies","050103","San Diego State University","122409",2.0
+2013,"Asian Studies","050103","University of San Francisco","122612",27.0
+2013,"Asian Studies","050103","Scripps College","123165",2.0
+2013,"Asian Studies","050103","Saint Mary's College of California","123554",3.0
+2013,"Asian Studies","050103","University of Colorado Boulder","126614",13.0
+2013,"Asian Studies","050103","Colorado College","126678",5.0
+2013,"Asian Studies","050103","George Washington University","131469",33.0
+2013,"Asian Studies","050103","Florida International University","133951",51.0
+2013,"Asian Studies","050103","Florida State University","134097",14.0
+2013,"Asian Studies","050103","Rollins College","136950",1.0
+2013,"Asian Studies","050103","University of Hawaii at Manoa","141574",36.0
+2013,"Asian Studies","050103","Hawaii Pacific University","141644",3.0
+2013,"Asian Studies","050103","Augustana College","143084",4.0
+2013,"Asian Studies","050103","University of Illinois at Urbana-Champaign","145637",5.0
+2013,"Asian Studies","050103","Knox College","146427",3.0
+2013,"Asian Studies","050103","Lake Forest College","146481",4.0
+2013,"Asian Studies","050103","Coe College","153144",6.0
+2013,"Asian Studies","050103","University of Iowa","153658",25.0
+2013,"Asian Studies","050103","Wichita State University","156125",1.0
+2013,"Asian Studies","050103","Berea College","156295",2.0
+2013,"Asian Studies","050103","Western Kentucky University","157951",1.0
+2013,"Asian Studies","050103","Tulane University of Louisiana","160755",8.0
+2013,"Asian Studies","050103","Bowdoin College","161004",9.0
+2013,"Asian Studies","050103","University of Maryland-University College","163204",16.0
+2013,"Asian Studies","050103","University of Maryland-Baltimore County","163268",6.0
+2013,"Asian Studies","050103","St Mary's College of Maryland","163912",3.0
+2013,"Asian Studies","050103","McDaniel College","164270",1.0
+2013,"Asian Studies","050103","Amherst College","164465",18.0
+2013,"Asian Studies","050103","Clark University","165334",3.0
+2013,"Asian Studies","050103","University of Massachusetts-Boston","166638",10.0
+2013,"Asian Studies","050103","Mount Holyoke College","166939",11.0
+2013,"Asian Studies","050103","Northeastern University","167358",3.0
+2013,"Asian Studies","050103","Suffolk University","168005",1.0
+2013,"Asian Studies","050103","Tufts University","168148",6.0
+2013,"Asian Studies","050103","Wheaton College","168281",4.0
+2013,"Asian Studies","050103","Williams College","168342",3.0
+2013,"Asian Studies","050103","Calvin College","169080",1.0
+2013,"Asian Studies","050103","University of Michigan-Ann Arbor","170976",46.0
+2013,"Asian Studies","050103","Carleton College","173258",2.0
+2013,"Asian Studies","050103","College of Saint Benedict","174747",3.0
+2013,"Asian Studies","050103","Saint Johns University","174792",3.0
+2013,"Asian Studies","050103","St Olaf College","174844",24.0
+2013,"Asian Studies","050103","Kansas City Art Institute","177746",3.0
+2013,"Asian Studies","050103","The University of Montana","180489",3.0
+2013,"Asian Studies","050103","University of Nevada-Las Vegas","182281",6.0
+2013,"Asian Studies","050103","Dartmouth College","182670",16.0
+2013,"Asian Studies","050103","Seton Hall University","186584",13.0
+2013,"Asian Studies","050103","William Paterson University of New Jersey","187444",5.0
+2013,"Asian Studies","050103","University of New Mexico-Main Campus","187985",6.0
+2013,"Asian Studies","050103","Barnard College","189097",17.0
+2013,"Asian Studies","050103","Colgate University","190099",4.0
+2013,"Asian Studies","050103","Cornell University","190415",44.0
+2013,"Asian Studies","050103","Hamilton College","191515",4.0
+2013,"Asian Studies","050103","Hobart William Smith Colleges","191630",9.0
+2013,"Asian Studies","050103","Manhattanville College","192749",2.0
+2013,"Asian Studies","050103","Skidmore College","195526",12.0
+2013,"Asian Studies","050103","St John's University-New York","195809",4.0
+2013,"Asian Studies","050103","SUNY at Binghamton","196079",1.0
+2013,"Asian Studies","050103","University at Buffalo","196088",3.0
+2013,"Asian Studies","050103","Stony Brook University","196097",19.0
+2013,"Asian Studies","050103","State University of New York at New Paltz","196176",19.0
+2013,"Asian Studies","050103","Union College","196866",1.0
+2013,"Asian Studies","050103","Vassar College","197133",6.0
+2013,"Asian Studies","050103","University of North Carolina at Chapel Hill","199120",53.0
+2013,"Asian Studies","050103","Bowling Green State University-Main Campus","201441",11.0
+2013,"Asian Studies","050103","University of Cincinnati-Main Campus","201885",6.0
+2013,"Asian Studies","050103","Marietta College","203845",2.0
+2013,"Asian Studies","050103","University of Mount Union","204185",2.0
+2013,"Asian Studies","050103","Ohio University-Main Campus","204857",10.0
+2013,"Asian Studies","050103","University of Toledo","206084",2.0
+2013,"Asian Studies","050103","University of Oregon","209551",16.0
+2013,"Asian Studies","050103","Willamette University","210401",2.0
+2013,"Asian Studies","050103","Indiana University of Pennsylvania-Main Campus","213020",11.0
+2013,"Asian Studies","050103","Lafayette College","213385",1.0
+2013,"Asian Studies","050103","Lehigh University","213543",2.0
+2013,"Asian Studies","050103","Pennsylvania State University-Penn State Erie-Behrend College","214591",3.0
+2013,"Asian Studies","050103","Pennsylvania State University-Main Campus","214777",16.0
+2013,"Asian Studies","050103","University of Pennsylvania","215062",9.0
+2013,"Asian Studies","050103","University of Pittsburgh-Pittsburgh Campus","215293",62.0
+2013,"Asian Studies","050103","Saint Joseph's University","215770",1.0
+2013,"Asian Studies","050103","Shippensburg University of Pennsylvania","216010",1.0
+2013,"Asian Studies","050103","Swarthmore College","216287",2.0
+2013,"Asian Studies","050103","Temple University","216339",13.0
+2013,"Asian Studies","050103","Furman University","218070",21.0
+2013,"Asian Studies","050103","Belmont University","219709",1.0
+2013,"Asian Studies","050103","Sewanee-The University of the South","221519",6.0
+2013,"Asian Studies","050103","Vanderbilt University","221999",10.0
+2013,"Asian Studies","050103","Austin College","222983",7.0
+2013,"Asian Studies","050103","Baylor University","223232",4.0
+2013,"Asian Studies","050103","Rice University","227757",17.0
+2013,"Asian Studies","050103","Texas State University","228459",2.0
+2013,"Asian Studies","050103","The University of Texas at Austin","228778",22.0
+2013,"Asian Studies","050103","Brigham Young University-Provo","230038",8.0
+2013,"Asian Studies","050103","Utah State University","230728",3.0
+2013,"Asian Studies","050103","University of Utah","230764",13.0
+2013,"Asian Studies","050103","Marlboro College","230940",3.0
+2013,"Asian Studies","050103","University of Vermont","231174",6.0
+2013,"Asian Studies","050103","Mary Baldwin College","232672",8.0
+2013,"Asian Studies","050103","Old Dominion University","232982",11.0
+2013,"Asian Studies","050103","Randolph-Macon College","233295",3.0
+2013,"Asian Studies","050103","University of Richmond","233374",2.0
+2013,"Asian Studies","050103","Eastern Washington University","235097",1.0
+2013,"Asian Studies","050103","Gonzaga University","235316",1.0
+2013,"Asian Studies","050103","Seattle University","236595",3.0
+2013,"Asian Studies","050103","Washington State University","236939",4.0
+2013,"Asian Studies","050103","University of Washington-Seattle Campus","236948",64.0
+2013,"Asian Studies","050103","Whitman College","237057",4.0
+2013,"Asian Studies","050103","Marshall University","237525",3.0
+2013,"Asian Studies","050103","Carthage College","238476",4.0
+2013,"Asian Studies","050103","University of Wisconsin-Madison","240444",44.0
+2013,"Asian Studies","050103","Purdue University-Main Campus","243780",11.0
+2013,"Asian Studies","050103","American Public University System","449339",2.0
+2014,"Asian Studies","050103","Arizona State University-Tempe","104151",12.0
+2014,"Asian Studies","050103","California State University-Chico","110538",14.0
+2014,"Asian Studies","050103","California State University-Long Beach","110583",12.0
+2014,"Asian Studies","050103","California State University-Sacramento","110617",7.0
+2014,"Asian Studies","050103","University of California-Berkeley","110635",33.0
+2014,"Asian Studies","050103","University of California-Los Angeles","110662",43.0
+2014,"Asian Studies","050103","University of California-Riverside","110671",11.0
+2014,"Asian Studies","050103","University of California-Santa Barbara","110705",7.0
+2014,"Asian Studies","050103","Claremont McKenna College","112260",1.0
+2014,"Asian Studies","050103","Loyola Marymount University","117946",7.0
+2014,"Asian Studies","050103","University of the Pacific","120883",3.0
+2014,"Asian Studies","050103","Pitzer College","121257",1.0
+2014,"Asian Studies","050103","University of Redlands","121691",1.0
+2014,"Asian Studies","050103","San Diego State University","122409",5.0
+2014,"Asian Studies","050103","University of San Francisco","122612",17.0
+2014,"Asian Studies","050103","University of Colorado Boulder","126614",7.0
+2014,"Asian Studies","050103","Colorado College","126678",5.0
+2014,"Asian Studies","050103","University of Northern Colorado","127741",4.0
+2014,"Asian Studies","050103","University of Delaware","130943",3.0
+2014,"Asian Studies","050103","George Washington University","131469",13.0
+2014,"Asian Studies","050103","Florida International University","133951",45.0
+2014,"Asian Studies","050103","Florida State University","134097",17.0
+2014,"Asian Studies","050103","Rollins College","136950",3.0
+2014,"Asian Studies","050103","University of Hawaii at Manoa","141574",29.0
+2014,"Asian Studies","050103","Hawaii Pacific University","141644",2.0
+2014,"Asian Studies","050103","Augustana College","143084",5.0
+2014,"Asian Studies","050103","University of Illinois at Urbana-Champaign","145637",3.0
+2014,"Asian Studies","050103","Knox College","146427",4.0
+2014,"Asian Studies","050103","Lake Forest College","146481",7.0
+2014,"Asian Studies","050103","Northwestern University","147767",2.0
+2014,"Asian Studies","050103","University of Notre Dame","152080",1.0
+2014,"Asian Studies","050103","Coe College","153144",6.0
+2014,"Asian Studies","050103","University of Iowa","153658",21.0
+2014,"Asian Studies","050103","Berea College","156295",2.0
+2014,"Asian Studies","050103","University of Louisville","157289",5.0
+2014,"Asian Studies","050103","Western Kentucky University","157951",5.0
+2014,"Asian Studies","050103","Tulane University of Louisiana","160755",14.0
+2014,"Asian Studies","050103","Bowdoin College","161004",10.0
+2014,"Asian Studies","050103","University of Maryland-University College","163204",24.0
+2014,"Asian Studies","050103","University of Maryland-Baltimore County","163268",7.0
+2014,"Asian Studies","050103","St Mary's College of Maryland","163912",2.0
+2014,"Asian Studies","050103","McDaniel College","164270",1.0
+2014,"Asian Studies","050103","Amherst College","164465",15.0
+2014,"Asian Studies","050103","Clark University","165334",7.0
+2014,"Asian Studies","050103","University of Massachusetts-Boston","166638",9.0
+2014,"Asian Studies","050103","Mount Holyoke College","166939",2.0
+2014,"Asian Studies","050103","Northeastern University","167358",1.0
+2014,"Asian Studies","050103","Suffolk University","168005",4.0
+2014,"Asian Studies","050103","Tufts University","168148",1.0
+2014,"Asian Studies","050103","Wheaton College","168281",5.0
+2014,"Asian Studies","050103","Williams College","168342",8.0
+2014,"Asian Studies","050103","Calvin College","169080",4.0
+2014,"Asian Studies","050103","University of Michigan-Ann Arbor","170976",56.0
+2014,"Asian Studies","050103","Macalester College","173902",1.0
+2014,"Asian Studies","050103","College of Saint Benedict","174747",2.0
+2014,"Asian Studies","050103","St Olaf College","174844",26.0
+2014,"Asian Studies","050103","Kansas City Art Institute","177746",8.0
+2014,"Asian Studies","050103","The University of Montana","180489",5.0
+2014,"Asian Studies","050103","University of Nevada-Las Vegas","182281",3.0
+2014,"Asian Studies","050103","Dartmouth College","182670",22.0
+2014,"Asian Studies","050103","Kean University","185262",1.0
+2014,"Asian Studies","050103","Seton Hall University","186584",21.0
+2014,"Asian Studies","050103","William Paterson University of New Jersey","187444",7.0
+2014,"Asian Studies","050103","University of New Mexico-Main Campus","187985",9.0
+2014,"Asian Studies","050103","Barnard College","189097",20.0
+2014,"Asian Studies","050103","Colgate University","190099",5.0
+2014,"Asian Studies","050103","Cornell University","190415",23.0
+2014,"Asian Studies","050103","Hamilton College","191515",2.0
+2014,"Asian Studies","050103","Hobart William Smith Colleges","191630",13.0
+2014,"Asian Studies","050103","Hofstra University","191649",5.0
+2014,"Asian Studies","050103","Manhattanville College","192749",2.0
+2014,"Asian Studies","050103","Skidmore College","195526",7.0
+2014,"Asian Studies","050103","St John's University-New York","195809",8.0
+2014,"Asian Studies","050103","SUNY at Binghamton","196079",5.0
+2014,"Asian Studies","050103","University at Buffalo","196088",4.0
+2014,"Asian Studies","050103","Stony Brook University","196097",19.0
+2014,"Asian Studies","050103","State University of New York at New Paltz","196176",10.0
+2014,"Asian Studies","050103","Vassar College","197133",5.0
+2014,"Asian Studies","050103","University of North Carolina at Chapel Hill","199120",44.0
+2014,"Asian Studies","050103","Bowling Green State University-Main Campus","201441",10.0
+2014,"Asian Studies","050103","Case Western Reserve University","201645",2.0
+2014,"Asian Studies","050103","University of Cincinnati-Main Campus","201885",14.0
+2014,"Asian Studies","050103","Marietta College","203845",1.0
+2014,"Asian Studies","050103","Ohio University-Main Campus","204857",4.0
+2014,"Asian Studies","050103","University of Toledo","206084",1.0
+2014,"Asian Studies","050103","University of Oregon","209551",15.0
+2014,"Asian Studies","050103","Portland State University","209807",2.0
+2014,"Asian Studies","050103","Indiana University of Pennsylvania-Main Campus","213020",13.0
+2014,"Asian Studies","050103","Lafayette College","213385",3.0
+2014,"Asian Studies","050103","Lehigh University","213543",1.0
+2014,"Asian Studies","050103","Pennsylvania State University-Penn State Erie-Behrend College","214591",1.0
+2014,"Asian Studies","050103","Pennsylvania State University-Main Campus","214777",16.0
+2014,"Asian Studies","050103","University of Pennsylvania","215062",6.0
+2014,"Asian Studies","050103","University of Pittsburgh-Pittsburgh Campus","215293",66.0
+2014,"Asian Studies","050103","Saint Joseph's University","215770",4.0
+2014,"Asian Studies","050103","Swarthmore College","216287",4.0
+2014,"Asian Studies","050103","Temple University","216339",9.0
+2014,"Asian Studies","050103","Furman University","218070",11.0
+2014,"Asian Studies","050103","Belmont University","219709",2.0
+2014,"Asian Studies","050103","Sewanee-The University of the South","221519",5.0
+2014,"Asian Studies","050103","Vanderbilt University","221999",2.0
+2014,"Asian Studies","050103","Austin College","222983",2.0
+2014,"Asian Studies","050103","Baylor University","223232",1.0
+2014,"Asian Studies","050103","Rice University","227757",10.0
+2014,"Asian Studies","050103","Texas State University","228459",1.0
+2014,"Asian Studies","050103","The University of Texas at Austin","228778",17.0
+2014,"Asian Studies","050103","Brigham Young University-Provo","230038",10.0
+2014,"Asian Studies","050103","Utah State University","230728",9.0
+2014,"Asian Studies","050103","University of Utah","230764",11.0
+2014,"Asian Studies","050103","Marlboro College","230940",1.0
+2014,"Asian Studies","050103","University of Vermont","231174",2.0
+2014,"Asian Studies","050103","Mary Baldwin College","232672",5.0
+2014,"Asian Studies","050103","Old Dominion University","232982",12.0
+2014,"Asian Studies","050103","Randolph-Macon College","233295",5.0
+2014,"Asian Studies","050103","University of Richmond","233374",3.0
+2014,"Asian Studies","050103","Gonzaga University","235316",1.0
+2014,"Asian Studies","050103","Seattle University","236595",4.0
+2014,"Asian Studies","050103","Washington State University","236939",3.0
+2014,"Asian Studies","050103","University of Washington-Seattle Campus","236948",63.0
+2014,"Asian Studies","050103","Whitman College","237057",6.0
+2014,"Asian Studies","050103","Carthage College","238476",1.0
+2014,"Asian Studies","050103","University of Wisconsin-Madison","240444",35.0
+2014,"Asian Studies","050103","Purdue University-Main Campus","243780",10.0
+2015,"Asian Studies","050103","Arizona State University-Tempe","104151",12.0
+2015,"Asian Studies","050103","California State University-Chico","110538",12.0
+2015,"Asian Studies","050103","California State University-Long Beach","110583",13.0
+2015,"Asian Studies","050103","California State University-Sacramento","110617",11.0
+2015,"Asian Studies","050103","University of California-Berkeley","110635",36.0
+2015,"Asian Studies","050103","University of California-Los Angeles","110662",48.0
+2015,"Asian Studies","050103","University of California-Riverside","110671",10.0
+2015,"Asian Studies","050103","University of California-Santa Barbara","110705",12.0
+2015,"Asian Studies","050103","Claremont McKenna College","112260",1.0
+2015,"Asian Studies","050103","Loyola Marymount University","117946",6.0
+2015,"Asian Studies","050103","University of the Pacific","120883",2.0
+2015,"Asian Studies","050103","Pepperdine University","121150",2.0
+2015,"Asian Studies","050103","Pitzer College","121257",3.0
+2015,"Asian Studies","050103","Pomona College","121345",3.0
+2015,"Asian Studies","050103","University of Redlands","121691",3.0
+2015,"Asian Studies","050103","San Diego State University","122409",11.0
+2015,"Asian Studies","050103","University of San Francisco","122612",17.0
+2015,"Asian Studies","050103","Scripps College","123165",3.0
+2015,"Asian Studies","050103","Saint Mary's College of California","123554",1.0
+2015,"Asian Studies","050103","University of Colorado Boulder","126614",5.0
+2015,"Asian Studies","050103","Colorado College","126678",3.0
+2015,"Asian Studies","050103","University of Northern Colorado","127741",3.0
+2015,"Asian Studies","050103","University of Delaware","130943",4.0
+2015,"Asian Studies","050103","American University","131159",2.0
+2015,"Asian Studies","050103","George Washington University","131469",25.0
+2015,"Asian Studies","050103","Florida International University","133951",36.0
+2015,"Asian Studies","050103","Florida State University","134097",20.0
+2015,"Asian Studies","050103","Rollins College","136950",3.0
+2015,"Asian Studies","050103","University of Hawaii at Manoa","141574",25.0
+2015,"Asian Studies","050103","Hawaii Pacific University","141644",1.0
+2015,"Asian Studies","050103","Augustana College","143084",5.0
+2015,"Asian Studies","050103","Knox College","146427",5.0
+2015,"Asian Studies","050103","Lake Forest College","146481",4.0
+2015,"Asian Studies","050103","Northwestern University","147767",3.0
+2015,"Asian Studies","050103","DePauw University","150400",3.0
+2015,"Asian Studies","050103","Coe College","153144",4.0
+2015,"Asian Studies","050103","University of Iowa","153658",18.0
+2015,"Asian Studies","050103","Berea College","156295",9.0
+2015,"Asian Studies","050103","University of Louisville","157289",1.0
+2015,"Asian Studies","050103","Western Kentucky University","157951",4.0
+2015,"Asian Studies","050103","Tulane University of Louisiana","160755",10.0
+2015,"Asian Studies","050103","Bowdoin College","161004",8.0
+2015,"Asian Studies","050103","University of Maryland-University College","163204",22.0
+2015,"Asian Studies","050103","University of Maryland-Baltimore County","163268",14.0
+2015,"Asian Studies","050103","St Mary's College of Maryland","163912",3.0
+2015,"Asian Studies","050103","McDaniel College","164270",3.0
+2015,"Asian Studies","050103","Amherst College","164465",14.0
+2015,"Asian Studies","050103","Clark University","165334",3.0
+2015,"Asian Studies","050103","Hampshire College","166018",2.0
+2015,"Asian Studies","050103","University of Massachusetts-Boston","166638",10.0
+2015,"Asian Studies","050103","Mount Holyoke College","166939",1.0
+2015,"Asian Studies","050103","Northeastern University","167358",4.0
+2015,"Asian Studies","050103","Suffolk University","168005",3.0
+2015,"Asian Studies","050103","Wheaton College","168281",2.0
+2015,"Asian Studies","050103","Williams College","168342",6.0
+2015,"Asian Studies","050103","University of Michigan-Ann Arbor","170976",49.0
+2015,"Asian Studies","050103","Carleton College","173258",3.0
+2015,"Asian Studies","050103","Macalester College","173902",4.0
+2015,"Asian Studies","050103","College of Saint Benedict","174747",5.0
+2015,"Asian Studies","050103","Saint Johns University","174792",1.0
+2015,"Asian Studies","050103","St Olaf College","174844",25.0
+2015,"Asian Studies","050103","Kansas City Art Institute","177746",12.0
+2015,"Asian Studies","050103","The University of Montana","180489",5.0
+2015,"Asian Studies","050103","University of Nevada-Las Vegas","182281",7.0
+2015,"Asian Studies","050103","Dartmouth College","182670",18.0
+2015,"Asian Studies","050103","Saint Peter's University","186432",1.0
+2015,"Asian Studies","050103","Seton Hall University","186584",10.0
+2015,"Asian Studies","050103","William Paterson University of New Jersey","187444",3.0
+2015,"Asian Studies","050103","University of New Mexico-Main Campus","187985",3.0
+2015,"Asian Studies","050103","Barnard College","189097",18.0
+2015,"Asian Studies","050103","Colgate University","190099",8.0
+2015,"Asian Studies","050103","Cornell University","190415",38.0
+2015,"Asian Studies","050103","Hamilton College","191515",2.0
+2015,"Asian Studies","050103","Hobart William Smith Colleges","191630",3.0
+2015,"Asian Studies","050103","Hofstra University","191649",2.0
+2015,"Asian Studies","050103","Manhattanville College","192749",1.0
+2015,"Asian Studies","050103","Nazareth College","193584",2.0
+2015,"Asian Studies","050103","Skidmore College","195526",5.0
+2015,"Asian Studies","050103","St John's University-New York","195809",5.0
+2015,"Asian Studies","050103","SUNY at Binghamton","196079",11.0
+2015,"Asian Studies","050103","University at Buffalo","196088",5.0
+2015,"Asian Studies","050103","Stony Brook University","196097",15.0
+2015,"Asian Studies","050103","State University of New York at New Paltz","196176",15.0
+2015,"Asian Studies","050103","Union College","196866",1.0
+2015,"Asian Studies","050103","Vassar College","197133",2.0
+2015,"Asian Studies","050103","University of North Carolina at Chapel Hill","199120",51.0
+2015,"Asian Studies","050103","Bowling Green State University-Main Campus","201441",6.0
+2015,"Asian Studies","050103","University of Cincinnati-Main Campus","201885",7.0
+2015,"Asian Studies","050103","Marietta College","203845",4.0
+2015,"Asian Studies","050103","University of Mount Union","204185",1.0
+2015,"Asian Studies","050103","Ohio University-Main Campus","204857",15.0
+2015,"Asian Studies","050103","University of Oregon","209551",15.0
+2015,"Asian Studies","050103","Portland State University","209807",4.0
+2015,"Asian Studies","050103","Willamette University","210401",2.0
+2015,"Asian Studies","050103","Indiana University of Pennsylvania-Main Campus","213020",13.0
+2015,"Asian Studies","050103","Lafayette College","213385",2.0
+2015,"Asian Studies","050103","Pennsylvania State University-Main Campus","214777",9.0
+2015,"Asian Studies","050103","University of Pennsylvania","215062",10.0
+2015,"Asian Studies","050103","University of Pittsburgh-Pittsburgh Campus","215293",57.0
+2015,"Asian Studies","050103","Saint Joseph's University","215770",1.0
+2015,"Asian Studies","050103","Swarthmore College","216287",3.0
+2015,"Asian Studies","050103","Temple University","216339",5.0
+2015,"Asian Studies","050103","Furman University","218070",12.0
+2015,"Asian Studies","050103","Belmont University","219709",1.0
+2015,"Asian Studies","050103","Sewanee-The University of the South","221519",2.0
+2015,"Asian Studies","050103","Vanderbilt University","221999",5.0
+2015,"Asian Studies","050103","Baylor University","223232",2.0
+2015,"Asian Studies","050103","Rice University","227757",11.0
+2015,"Asian Studies","050103","The University of Texas at Austin","228778",17.0
+2015,"Asian Studies","050103","Brigham Young University-Provo","230038",5.0
+2015,"Asian Studies","050103","Utah State University","230728",5.0
+2015,"Asian Studies","050103","University of Utah","230764",11.0
+2015,"Asian Studies","050103","Marlboro College","230940",2.0
+2015,"Asian Studies","050103","University of Vermont","231174",5.0
+2015,"Asian Studies","050103","Mary Baldwin College","232672",8.0
+2015,"Asian Studies","050103","Old Dominion University","232982",7.0
+2015,"Asian Studies","050103","Randolph-Macon College","233295",6.0
+2015,"Asian Studies","050103","University of Richmond","233374",1.0
+2015,"Asian Studies","050103","Gonzaga University","235316",1.0
+2015,"Asian Studies","050103","Seattle University","236595",1.0
+2015,"Asian Studies","050103","Washington State University","236939",4.0
+2015,"Asian Studies","050103","University of Washington-Seattle Campus","236948",61.0
+2015,"Asian Studies","050103","Whitman College","237057",4.0
+2015,"Asian Studies","050103","Carthage College","238476",3.0
+2015,"Asian Studies","050103","University of Wisconsin-Madison","240444",39.0
+2015,"Asian Studies","050103","Purdue University-Main Campus","243780",10.0
+2016,"Asian Studies","050103","Birmingham Southern College","100937",2.0
+2016,"Asian Studies","050103","Arizona State University-Tempe","104151",7.0
+2016,"Asian Studies","050103","California State University-Chico","110538",13.0
+2016,"Asian Studies","050103","California State University-Long Beach","110583",9.0
+2016,"Asian Studies","050103","California State University-Sacramento","110617",5.0
+2016,"Asian Studies","050103","University of California-Berkeley","110635",28.0
+2016,"Asian Studies","050103","University of California-Los Angeles","110662",40.0
+2016,"Asian Studies","050103","University of California-Riverside","110671",10.0
+2016,"Asian Studies","050103","University of California-Santa Barbara","110705",12.0
+2016,"Asian Studies","050103","Chapman University","111948",1.0
+2016,"Asian Studies","050103","Claremont McKenna College","112260",1.0
+2016,"Asian Studies","050103","Loyola Marymount University","117946",2.0
+2016,"Asian Studies","050103","University of the Pacific","120883",2.0
+2016,"Asian Studies","050103","Pepperdine University","121150",5.0
+2016,"Asian Studies","050103","Pitzer College","121257",2.0
+2016,"Asian Studies","050103","Pomona College","121345",2.0
+2016,"Asian Studies","050103","University of Redlands","121691",3.0
+2016,"Asian Studies","050103","San Diego State University","122409",5.0
+2016,"Asian Studies","050103","University of San Francisco","122612",23.0
+2016,"Asian Studies","050103","Scripps College","123165",2.0
+2016,"Asian Studies","050103","University of Colorado Boulder","126614",11.0
+2016,"Asian Studies","050103","Colorado College","126678",6.0
+2016,"Asian Studies","050103","University of Northern Colorado","127741",7.0
+2016,"Asian Studies","050103","University of Delaware","130943",4.0
+2016,"Asian Studies","050103","American University","131159",8.0
+2016,"Asian Studies","050103","George Washington University","131469",18.0
+2016,"Asian Studies","050103","Florida International University","133951",49.0
+2016,"Asian Studies","050103","Florida State University","134097",11.0
+2016,"Asian Studies","050103","Rollins College","136950",3.0
+2016,"Asian Studies","050103","University of Hawaii at Manoa","141574",28.0
+2016,"Asian Studies","050103","Augustana College","143084",4.0
+2016,"Asian Studies","050103","University of Illinois at Urbana-Champaign","145637",1.0
+2016,"Asian Studies","050103","Knox College","146427",3.0
+2016,"Asian Studies","050103","Lake Forest College","146481",3.0
+2016,"Asian Studies","050103","Northwestern University","147767",3.0
+2016,"Asian Studies","050103","DePauw University","150400",3.0
+2016,"Asian Studies","050103","Coe College","153144",6.0
+2016,"Asian Studies","050103","University of Iowa","153658",22.0
+2016,"Asian Studies","050103","Berea College","156295",5.0
+2016,"Asian Studies","050103","University of Louisville","157289",3.0
+2016,"Asian Studies","050103","Western Kentucky University","157951",8.0
+2016,"Asian Studies","050103","Tulane University of Louisiana","160755",7.0
+2016,"Asian Studies","050103","Bowdoin College","161004",8.0
+2016,"Asian Studies","050103","University of Maryland-University College","163204",33.0
+2016,"Asian Studies","050103","University of Maryland-Baltimore County","163268",16.0
+2016,"Asian Studies","050103","St Mary's College of Maryland","163912",3.0
+2016,"Asian Studies","050103","McDaniel College","164270",1.0
+2016,"Asian Studies","050103","Amherst College","164465",20.0
+2016,"Asian Studies","050103","Boston University","164988",3.0
+2016,"Asian Studies","050103","Clark University","165334",7.0
+2016,"Asian Studies","050103","Hampshire College","166018",1.0
+2016,"Asian Studies","050103","University of Massachusetts-Boston","166638",5.0
+2016,"Asian Studies","050103","Northeastern University","167358",4.0
+2016,"Asian Studies","050103","Bard College at Simon's Rock","167792",5.0
+2016,"Asian Studies","050103","Tufts University","168148",2.0
+2016,"Asian Studies","050103","Wheaton College","168281",1.0
+2016,"Asian Studies","050103","Williams College","168342",3.0
+2016,"Asian Studies","050103","Calvin College","169080",1.0
+2016,"Asian Studies","050103","University of Michigan-Ann Arbor","170976",33.0
+2016,"Asian Studies","050103","Carleton College","173258",1.0
+2016,"Asian Studies","050103","Macalester College","173902",1.0
+2016,"Asian Studies","050103","College of Saint Benedict","174747",3.0
+2016,"Asian Studies","050103","Saint Johns University","174792",3.0
+2016,"Asian Studies","050103","St Olaf College","174844",26.0
+2016,"Asian Studies","050103","Kansas City Art Institute","177746",7.0
+2016,"Asian Studies","050103","The University of Montana","180489",2.0
+2016,"Asian Studies","050103","University of Nevada-Las Vegas","182281",3.0
+2016,"Asian Studies","050103","Dartmouth College","182670",11.0
+2016,"Asian Studies","050103","Seton Hall University","186584",10.0
+2016,"Asian Studies","050103","William Paterson University of New Jersey","187444",7.0
+2016,"Asian Studies","050103","University of New Mexico-Main Campus","187985",4.0
+2016,"Asian Studies","050103","Barnard College","189097",13.0
+2016,"Asian Studies","050103","Colgate University","190099",5.0
+2016,"Asian Studies","050103","Cornell University","190415",28.0
+2016,"Asian Studies","050103","Hamilton College","191515",4.0
+2016,"Asian Studies","050103","Hobart William Smith Colleges","191630",9.0
+2016,"Asian Studies","050103","Hofstra University","191649",1.0
+2016,"Asian Studies","050103","Manhattanville College","192749",1.0
+2016,"Asian Studies","050103","New York University","193900",1.0
+2016,"Asian Studies","050103","Pace University-New York","194310",1.0
+2016,"Asian Studies","050103","Skidmore College","195526",4.0
+2016,"Asian Studies","050103","St John's University-New York","195809",4.0
+2016,"Asian Studies","050103","SUNY at Binghamton","196079",14.0
+2016,"Asian Studies","050103","University at Buffalo","196088",6.0
+2016,"Asian Studies","050103","Stony Brook University","196097",17.0
+2016,"Asian Studies","050103","State University of New York at New Paltz","196176",13.0
+2016,"Asian Studies","050103","Union College","196866",5.0
+2016,"Asian Studies","050103","Vassar College","197133",1.0
+2016,"Asian Studies","050103","University of North Carolina at Chapel Hill","199120",47.0
+2016,"Asian Studies","050103","Bowling Green State University-Main Campus","201441",7.0
+2016,"Asian Studies","050103","University of Cincinnati-Main Campus","201885",8.0
+2016,"Asian Studies","050103","Marietta College","203845",1.0
+2016,"Asian Studies","050103","Ohio University-Main Campus","204857",15.0
+2016,"Asian Studies","050103","University of Toledo","206084",6.0
+2016,"Asian Studies","050103","University of Oregon","209551",12.0
+2016,"Asian Studies","050103","Portland State University","209807",2.0
+2016,"Asian Studies","050103","Willamette University","210401",3.0
+2016,"Asian Studies","050103","Indiana University of Pennsylvania-Main Campus","213020",9.0
+2016,"Asian Studies","050103","Lafayette College","213385",3.0
+2016,"Asian Studies","050103","Lehigh University","213543",2.0
+2016,"Asian Studies","050103","Pennsylvania State University-Main Campus","214777",10.0
+2016,"Asian Studies","050103","University of Pennsylvania","215062",2.0
+2016,"Asian Studies","050103","University of Pittsburgh-Pittsburgh Campus","215293",62.0
+2016,"Asian Studies","050103","Saint Joseph's University","215770",2.0
+2016,"Asian Studies","050103","Swarthmore College","216287",2.0
+2016,"Asian Studies","050103","Temple University","216339",7.0
+2016,"Asian Studies","050103","Furman University","218070",6.0
+2016,"Asian Studies","050103","Sewanee-The University of the South","221519",1.0
+2016,"Asian Studies","050103","Vanderbilt University","221999",9.0
+2016,"Asian Studies","050103","Baylor University","223232",3.0
+2016,"Asian Studies","050103","Rice University","227757",12.0
+2016,"Asian Studies","050103","The University of Texas at Austin","228778",11.0
+2016,"Asian Studies","050103","Brigham Young University-Provo","230038",16.0
+2016,"Asian Studies","050103","Utah State University","230728",7.0
+2016,"Asian Studies","050103","University of Utah","230764",16.0
+2016,"Asian Studies","050103","Marlboro College","230940",2.0
+2016,"Asian Studies","050103","University of Vermont","231174",4.0
+2016,"Asian Studies","050103","Mary Baldwin College","232672",2.0
+2016,"Asian Studies","050103","Old Dominion University","232982",2.0
+2016,"Asian Studies","050103","Randolph-Macon College","233295",1.0
+2016,"Asian Studies","050103","University of Richmond","233374",1.0
+2016,"Asian Studies","050103","Gonzaga University","235316",5.0
+2016,"Asian Studies","050103","Seattle University","236595",3.0
+2016,"Asian Studies","050103","Washington State University","236939",2.0
+2016,"Asian Studies","050103","University of Washington-Seattle Campus","236948",61.0
+2016,"Asian Studies","050103","Whitman College","237057",1.0
+2016,"Asian Studies","050103","Carthage College","238476",2.0
+2016,"Asian Studies","050103","University of Wisconsin-Madison","240444",33.0
+2016,"Asian Studies","050103","Purdue University-Main Campus","243780",9.0
