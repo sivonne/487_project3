@@ -1,19 +1,95 @@
-
-h1{
-  left:0;
+#menu-bar{
+  background-color: #333333;
+  border-color: #333333;
+  border-style: solid;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width:100%;
   top:0;
+  height:50px;
+  z-index: 1000;
+  text-align: center;
+  position:sticky;
+
+
+}
+.bar-images{
+  height:30px;
+  width:30px;
+  padding-left: 20px;
+}
+#log-in, #search, #topics {
+  display:flex;
+  text-align: center;
+}
+#ad-icon{
+width:250px;
+height:40px;
+cursor: pointer;
+}
+#log-in{
+  margin-right:10px;
+}
+#log-in-icon{
+  margin-right:2px;
+  margin-top: 8px;
+
+}
+/* #log-in, #search, #topics {
+  display:flex;
+  align-content: center;
+  padding-top: 5px;
+  cursor: pointer;
+  text-align: center;
+
+}
+
+#ad-icon{
+width:10%;
+height:70%;
+cursor: pointer;
+
+}
+#log-in-icon{
+  width:50%;
+  height:50%;
+  margin-top: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+#search-icon{
+  width:30%;
+  height:30%;
+  align-content: center;
+}
+#news-icon{
+  width:30%;
+  height:30%;
+  padding-top: 8px;
+  align-content: center;
+
+} */
+h1{
+
   font-family: amador, sans-serif;
   font-weight: 400;
   font-style: normal;
   color:white;
   text-align: center;
-  background-color: #333333;
-  border-color: #333333;
-  border-style: solid;
-  border-width: thick;
-  position:sticky;
-  z-index: 1000;
+  flex-basis: 75%;
+  cursor: pointer;
+
 }
+
+h5{
+  font: 9px "Benton Black",Arial,sans-serif;  color:white;
+  text-align: center;
+  padding-left: 5px;
+
+}
+
 #indented-body{
   padding-left: 5%;
 }
@@ -62,6 +138,7 @@ b{
   padding-top: 2%;
 }
 p{
+
 font-family: Georgia,serif;
 line-height: 26px;
 color: #000;
@@ -96,9 +173,14 @@ font-weight: 400;
   opacity: 0;
 }*/
 #basic-table{
-  margin-top: 10%;
-  margin-bottom: 30px;
-  width:100%;
+  margin-top: 10px;
+  width:70%;
+  height:60%;
+
+}
+#section8{
+  margin-left: 20px;
+  margin-top:100px;
 }
 
 /*Tau Charts*/
@@ -135,22 +217,28 @@ flex-basis: 50%;
   }
   h3{
     grid-area: byline;
-
+  }
+  #search, #news-heading, #ad-icon, #log-in-heading {
+    display:none;
   }
 
+  h1{
+  align-content: center;
+  font-size: 18px;
+}
 
-  #indented-body{
-   margin:2%;
-  }
-  .box {
-    display:block;
-  }
-  #container{
+    #indented-body{
+     margin:2%;
+    }
+    .box {
+      display:block;
+    }
+    #container{
+      width:100%;
+      margin-right:3%;
+    }
+    #results{
     width:100%;
-    margin-right:3%;
-  }
-  #results{
-  width:100%;
-  height:100%;
-  }
+    height:100%;
+    }
 }
