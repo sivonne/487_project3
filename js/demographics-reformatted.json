@@ -1,0 +1,47 @@
+[
+  {
+    "Year": "1980",
+
+    "Two or More Races": "n/a",
+    "White": 85.40,
+    "Black": 12.20,
+    "Percent Asian and Pacific Islander": 1.60,
+    "Hispanic Origin (any race)": 1.00,
+    "Other": 0.50,
+    "Am. Indian, Eskimo, or Aleut": 0.00
+
+  },
+  {
+    "Year": "1990",
+    "Two or More Races": "n/a",
+    "White": 82.30,
+    "Black": 12.50,
+    "Percent Asian and Pacific Islander": 4.30,
+    "Hispanic Origin (any race)": 1.60,
+    "Other": 0.50,
+    "Am. Indian, Eskimo, or Aleut": 0.00
+
+},
+  {
+    "Year": "2000",
+    "Two or More Races": 3.20,
+    "White": 76.10,
+    "Black": 11.30,
+    "Percent Asian and Pacific Islander": 7.20,
+    "Hispanic Origin (any race)": 3.20,
+    "Other": 0.20,
+    "Am. Indian, Eskimo, or Aleut": 0.00
+
+},
+  {
+    "Year": "2010",
+          "Two or More Races": 2.70,
+          "White": 72.80,
+          "Black": 9.70,
+          "Percent Asian and Pacific Islander": 11.90,
+          "Hispanic Origin (any race)": 6.40,
+          "Other": 2.70,
+          "Am. Indian, Eskimo, or Aleut": 0.00
+
+}
+]

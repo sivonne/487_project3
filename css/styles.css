@@ -12,6 +12,7 @@ h1{
   border-style: solid;
   border-width: thick;
   position:sticky;
+z-index: 1000;
 }
 #indented-body{
   padding-left: 5%;
@@ -95,4 +96,17 @@ font-weight: 400;
 }
 .hidden{
   opacity: 0;
+}
+
+/*Tau Charts*/
+#results{
+flex-basis: 50%;
+}
+/*want to wrap text around the graph*/
+#box{
+  display: flex;
+}
+#section2{
+  flex-basis: 50%;
+
 }

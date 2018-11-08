@@ -13,6 +13,9 @@
   <!--dataTables-->
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
   <link rel="stylesheet" href="https://use.typekit.net/dyr1rcl.css">
+  <!--TauCharts-->
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/taucharts@2/dist/taucharts.min.css">
+
   <!--css files-->
   <link rel="stylesheet" href="css/styles.css" type="text/css"/>
 </head>
@@ -37,22 +40,26 @@
     </br>
     She said in an interview that her interest stems from her own undergraduate Asian-American studies classes at UC-Santa Barbara.
 </p>
-<!--population chart for last ___ years, increase in Asian American population in Chapel Hill-->
-<div id="chart-pop">
+<div id="box">
 
-</div>
+<!--Tau Chart, population chart for last ___ years, increase in Asian American population in Chapel Hill-->
+<div id="results">
+  <!---content will go here--->
+  </div>
+  <!--<caption>Source: Town of Chapel Hill, https://www.townofchapelhill.org/home/showdocument?id=10030</caption>-->
 
-<h4>Source: Town of Chapel Hill
-  <a href="https://www.townofchapelhill.org/home/showdocument?id=10030"></a></h4>
+
+
 
 <p id="section2">
+
   At the meeting, Ho suggested that the students partner up and introduce themselves to faculty members across departments. She offered names of professors and faculty who would be ideal to reach.
 </br>
 “All we’re doing is trying to meet with each individual history department faculty member to let you know that this is something that we, undergraduate students, care about very deeply,” Ho said as a way to present the discussion to faculty. “I’m here to tell you that, if an Asian-American history class was offered-we could guarantee that it would be full.”
 </br>
 Ho suggested canvassing students on campus with tools like Google Forms to provide quantifiable records to interested faculty or administration.
-
 </p>
+</div>
 
 <p id="section3">
   Some professors are already interested in the progress of this initiative.
@@ -73,7 +80,7 @@ In an interview, Ho said there are three main ways to create a department. Most 
 
 <p id="section4">
 
-  If fact, if a student was to search for Asian-American majors on the Collegeboard website, which lists 3,770 colleges, they would find 26 colleges total across the nation that offer such a program. If they were to further narrow the results to “the South,” they would find zero.
+  In fact, if a student was to search for Asian-American majors on the Collegeboard website, which lists 3,770 colleges, they would find 26 colleges total across the nation that offer such a program. If they were to further narrow the results to “the South,” they would find zero.
 </p>
 
 <!--High Maps - map for universities across the country-->
@@ -152,7 +159,11 @@ According to Data USA, the five universities in 2016 with the most graduates fro
 <script src="https://code.highcharts.com/maps/modules/data.js"></script>
 <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
 <script src="https://code.highcharts.com/maps/modules/offline-exporting.js"></script>
-<script src="https://code.highcharts.com/mapdata/countries/us/us-all.js"></script><!--My JS-->
+<script src="https://code.highcharts.com/mapdata/countries/us/us-all.js"></script>
+<!--TauCharts-->
+<script src="https://cdn.jsdelivr.net/npm/d3@4.13.0/build/d3.min.js" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/npm/taucharts@2/dist/taucharts.min.js" type="text/javascript"></script>
+<!--My JS-->
 <script src="js/scripts.js"></script>
 
 

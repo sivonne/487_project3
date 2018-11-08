@@ -1,27 +1,28 @@
 [
   {
-    "code": "AZ",
+    "code": "az",
     "university": "Arizona code University-Tempe"
   },
   {
-    "code": "CA",
+    "code": "ca",
     "university": "California code University-Long Beach, California code University-Northridge, Pitzer College, Pomona College, San Francisco code University, Scripps College, University of California-Berkeley, University of California-Davis, University of California-Irvine, University of California-Los Angeles, University of California-Riverside, University of California-Santa Barbara, University of Southern California"
   },
 
   {
-    "code": "CO",
+    "code": "az",
     "university": "University of Denver"
   },
   {
-    "code": "IL",
+    "code": "il",
     "university": "Northwestern University, University of Illinois at Urbana-Champaign"
   },
   {
-    "code": "MA",
+    "code": "ma",
     "university": "University of Maryland-College Park"
   },
   {
-    "code": "NY",
+    "code": "ny",
     "university": "Binghamton University, New York University, Stony Brook University"
   }
+  
 ]

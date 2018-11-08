@@ -1,0 +1,303 @@
+[
+  {
+    "code": "az",
+    "programs": 1,
+    "university": "Arizona code University-Tempe"
+  },
+  {
+    "code": "ca",
+    "programs": 13,
+    "university": "California code University-Long Beach, California code University-Northridge, Pitzer College, Pomona College, San Francisco code University, Scripps College, University of California-Berkeley, University of California-Davis, University of California-Irvine, University of California-Los Angeles, University of California-Riverside, University of California-Santa Barbara, University of Southern California"
+  },
+
+  {
+    "code": "co",
+    "programs":1,
+    "university": "University of Denver"
+  },
+  {
+    "code": "il",
+    "programs":2,
+    "university": "Northwestern University, University of Illinois at Urbana-Champaign"
+  },
+  {
+    "code": "ma",
+    "programs":1,
+    "university": "University of Maryland-College Park"
+  },
+  {
+    "code": "ny",
+    "programs":3,
+    "university": "Binghamton University, New York University, Stony Brook University"
+  }
+  {
+  "code":"ak",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"al",
+  "programs":0,
+  "university": "none"
+
+  }
+
+  {
+  "code":"ar",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"ct",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"de",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"fl",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"ga",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"hi",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"id",
+  "programs":0,
+  "university": "none"
+
+  }
+
+  {
+  "code":"in",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"IA",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"ks",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"ky",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"la",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"me",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"md",
+  "programs":0,
+  "university": "none"
+
+  }
+
+  {
+  "code":"mi",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"mn",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"ms",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"mo",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"mt",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"ne",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"nv",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"nh",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"nj",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"nm",
+  "programs":0,
+  "university": "none"
+
+  }
+
+  {
+  "code":"nc",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"nd",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"oh",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"ok",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"or",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"pa",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"ri",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"sc",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"sd",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"tn",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"tx",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"ut",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"vt",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"va",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"wa",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"wv",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"wi",
+  "programs":0,
+  "university": "none"
+
+  }
+  {
+  "code":"wy",
+  "programs":0,
+  "university": "none"
+
+  }
+
+
+]
