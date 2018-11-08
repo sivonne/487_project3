@@ -1,0 +1,235 @@
+[
+
+  {
+    "uni-name": "Arizona code University-Tempe",
+    "PostalCode": "University Drive and Mill Avenue, Tempe, Arizona 85287",
+    "code": "AZ",
+    "Website": "www.asu.edu/",
+    "awards": "Less than one year certificate|One but less than two years certificate|Bachelor's degree|Postbaccalaureate certificate|Master's degree|Doctor's degree - research/scholarship",
+    "Campus setting": "City: Midsize",
+    "Student population": 51164,
+    "Undergraduate students": 42427,
+    "Net Price **": "$12,947.00"
+  },
+  {
+    "uni-name": "Binghamton University",
+    "PostalCode": "4400 Vestal Parkway East, Vestal, New York 13850-6000",
+    "code": "NY",
+    "Website": "www.binghamton.edu",
+    "awards": "Bachelor's degree|Master's degree|Post-master's certificate|Doctor's degree - research/scholarship|Doctor's degree - professional practice",
+    "Campus setting": "Suburb: Midsize",
+    "Student population": 17351,
+    "Undergraduate students": 13737,
+    "Net Price **": "$16,775.00"
+  },
+  {
+    "uni-name": "California code University-Long Beach",
+    "PostalCode": "1250 Bellflower Blvd, Long Beach, California 90840-0115",
+    "code": "CA",
+    "Website": "www.csulb.edu",
+    "awards": "Bachelor's degree|Master's degree|Doctor's degree - research/scholarship|Doctor's degree - professional practice|Doctor's degree - other",
+    "Campus setting": "City: Large",
+    "Student population": 37622,
+    "Undergraduate students": 31566,
+    "Net Price **": "$9,654.00"
+  },
+  {
+    "uni-name": "California code University-Northridge",
+    "PostalCode": "18111 Nordhoff St, Northridge, California 91330",
+    "code": "CA",
+    "Website": "https://www.csun.edu",
+    "awards": "Bachelor's degree|Master's degree|Doctor's degree - professional practice|Doctor's degree - other",
+    "Campus setting": "City: Large",
+    "Student population": 41319,
+    "Undergraduate students": 35839,
+    "Net Price **": "$5,958.00"
+  },
+  {
+    "uni-name": "New York University",
+    "PostalCode": "70 Washington Sq South, New York, New York 10012-1091",
+    "code": "NY",
+    "Website": "www.nyu.edu",
+    "awards": "Less than one year certificate|Associate's degree|Bachelor's degree|Postbaccalaureate certificate|Master's degree|Post-master's certificate|Doctor's degree - research/scholarship|Doctor's degree - professional practice|Doctor's degree - other",
+    "Campus setting": "City: Large",
+    "Student population": 51123,
+    "Undergraduate students": 26417,
+    "Net Price **": "$36,256.00"
+  },
+  {
+    "uni-name": "Northwestern University",
+    "PostalCode": "633 Clark St, Evanston, Illinois 60208",
+    "code": "IL",
+    "Website": "www.northwestern.edu",
+    "awards": "One but less than two years certificate|Bachelor's degree|Postbaccalaureate certificate|Master's degree|Post-master's certificate|Doctor's degree - research/scholarship|Doctor's degree - professional practice",
+    "Campus setting": "City: Small",
+    "Student population": 22008,
+    "Undergraduate students": 8700,
+    "Net Price **": "$26,099.00"
+  },
+  {
+    "uni-name": "Pitzer College",
+    "PostalCode": "1050 North Mills Avenue, Claremont, California 91711-6101",
+    "code": "CA",
+    "Website": "https://www.pitzer.edu",
+    "awards": "Bachelor's degree",
+    "Campus setting": "Suburb: Large",
+    "Student population": 1074,
+    "Undergraduate students": 1074,
+    "Net Price **": "$26,935.00"
+  },
+  {
+    "uni-name": "Pomona College",
+    "PostalCode": "550 N College Ave, Claremont, California 91711-6319",
+    "code": "CA",
+    "Website": "www.pomona.edu",
+    "awards": "Bachelor's degree",
+    "Campus setting": "Suburb: Large",
+    "Student population": 1599,
+    "Undergraduate students": 1599,
+    "Net Price **": "$18,427.00"
+  },
+  {
+    "uni-name": "San Francisco code University",
+    "PostalCode": "1600 Holloway Ave, San Francisco, California 94132",
+    "code": "CA",
+    "Website": "www.sfsu.edu",
+    "awards": "Bachelor's degree|Postbaccalaureate certificate|Master's degree|Post-master's certificate|Doctor's degree - research/scholarship|Doctor's degree - professional practice|Doctor's degree - other",
+    "Campus setting": "City: Large",
+    "Student population": 29758,
+    "Undergraduate students": 26680,
+    "Net Price **": "$13,551.00"
+  },
+  {
+    "uni-name": "Scripps College",
+    "PostalCode": "1030 North Columbia Avenue, Claremont, California 91711-3905",
+    "code": "CA",
+    "Website": "www.scrippscollege.edu",
+    "awards": "Bachelor's degree|Postbaccalaureate certificate",
+    "Campus setting": "Suburb: Large",
+    "Student population": 1083,
+    "Undergraduate students": 1065,
+    "Net Price **": "$36,831.00"
+  },
+  {
+    "uni-name": "Stony Brook University",
+    "PostalCode": "310 Administration Building, Stony Brook, New York 11794",
+    "code": "NY",
+    "Website": "www.stonybrook.edu",
+    "awards": "Bachelor's degree|Postbaccalaureate certificate|Master's degree|Post-master's certificate|Doctor's degree - research/scholarship|Doctor's degree - professional practice",
+    "Campus setting": "Suburb: Large",
+    "Student population": 25989,
+    "Undergraduate students": 17364,
+    "Net Price **": "$14,330.00"
+  },
+  {
+    "uni-name": "University of California-Berkeley",
+    "PostalCode": "200 California Hall, Berkeley, California 94720",
+    "code": "CA",
+    "Website": "www.berkeley.edu",
+    "awards": "Bachelor's degree|Postbaccalaureate certificate|Master's degree|Post-master's certificate|Doctor's degree - research/scholarship|Doctor's degree - professional practice",
+    "Campus setting": "City: Midsize",
+    "Student population": 41891,
+    "Undergraduate students": 30574,
+    "Net Price **": "$18,178.00"
+  },
+  {
+    "uni-name": "University of California-Davis",
+    "PostalCode": "One Shields Avenue, Davis, California 95616-8678",
+    "code": "CA",
+    "Website": "www.ucdavis.edu",
+    "awards": "Bachelor's degree|Postbaccalaureate certificate|Master's degree|Post-master's certificate|Doctor's degree - research/scholarship|Doctor's degree - professional practice",
+    "Campus setting": "Suburb: Small",
+    "Student population": 37380,
+    "Undergraduate students": 30066,
+    "Net Price **": "$16,446.00"
+  },
+  {
+    "uni-name": "University of California-Irvine",
+    "PostalCode": "501 Aldrich Hall, Irvine, California 92697",
+    "code": "CA",
+    "Website": "www.uci.edu/",
+    "awards": "Bachelor's degree|Postbaccalaureate certificate|Master's degree|Doctor's degree - research/scholarship|Doctor's degree - professional practice",
+    "Campus setting": "City: Large",
+    "Student population": 35242,
+    "Undergraduate students": 29307,
+    "Net Price **": "$13,944.00"
+  },
+  {
+    "uni-name": "University of California-Los Angeles",
+    "PostalCode": "405 Hilgard Ave, Los Angeles, California 90095-1405",
+    "code": "CA",
+    "Website": "www.ucla.edu/",
+    "awards": "Bachelor's degree|Master's degree|Doctor's degree - research/scholarship|Doctor's degree - professional practice",
+    "Campus setting": "City: Large",
+    "Student population": 44027,
+    "Undergraduate students": 31002,
+    "Net Price **": "$14,760.00"
+  },
+  {
+    "uni-name": "University of California-Riverside",
+    "PostalCode": "900 University Ave, Riverside, California 92521",
+    "code": "CA",
+    "Website": "WWW.UCR.EDU",
+    "awards": "Bachelor's degree|Master's degree|Doctor's degree - research/scholarship|Doctor's degree - professional practice",
+    "Campus setting": "City: Large",
+    "Student population": 23279,
+    "Undergraduate students": 20073,
+    "Net Price **": "$12,404.00"
+  },
+  {
+    "uni-name": "University of California-Santa Barbara",
+    "PostalCode": "5221 Cheadle Hall, Santa Barbara, California 93106",
+    "code": "CA",
+    "Website": "www.ucsb.edu",
+    "awards": "Bachelor's degree|Postbaccalaureate certificate|Master's degree|Doctor's degree - research/scholarship",
+    "Campus setting": "Suburb: Midsize",
+    "Student population": 25057,
+    "Undergraduate students": 22186,
+    "Net Price **": "$16,154.00"
+  },
+  {
+    "uni-name": "University of Denver",
+    "PostalCode": "2199 S. University Blvd, Denver, Colorado 80208",
+    "code": "CO",
+    "Website": "www.du.edu",
+    "awards": "Less than one year certificate|Bachelor's degree|Postbaccalaureate certificate|Master's degree|Post-master's certificate|Doctor's degree - research/scholarship|Doctor's degree - professional practice",
+    "Campus setting": "City: Large",
+    "Student population": 11434,
+    "Undergraduate students": 5765,
+    "Net Price **": "$35,163.00"
+  },
+  {
+    "uni-name": "University of Illinois at Urbana-Champaign",
+    "PostalCode": "601 E John Street, Champaign, Illinois 61820-5711",
+    "code": "IL",
+    "Website": "www.illinois.edu/",
+    "awards": "Bachelor's degree|Master's degree|Post-master's certificate|Doctor's degree - research/scholarship|Doctor's degree - professional practice",
+    "Campus setting": "City: Small",
+    "Student population": 48216,
+    "Undergraduate students": 33955,
+    "Net Price **": "$16,638.00"
+  },
+  {
+    "uni-name": "University of Maryland-College Park",
+    "PostalCode": "College Park, Maryland 20742",
+    "code": "MA",
+    "Website": "www.umd.edu",
+    "awards": "Two but less than 4 years certificate|Bachelor's degree|Postbaccalaureate certificate|Master's degree|Post-master's certificate|Doctor's degree - research/scholarship|Doctor's degree - professional practice",
+    "Campus setting": "Suburb: Large",
+    "Student population": 40521,
+    "Undergraduate students": 29868,
+    "Net Price **": "$17,241.00"
+  },
+  {
+    "uni-name": "University of Southern California",
+    "PostalCode": "University Park, Los Angeles, California 90089",
+    "code": "CA",
+    "Website": "www.usc.edu/",
+    "awards": "Bachelor's degree|Postbaccalaureate certificate|Master's degree|Post-master's certificate|Doctor's degree - research/scholarship|Doctor's degree - professional practice|Doctor's degree - other",
+    "Campus setting": "City: Large",
+    "Student population": 45687,
+    "Undergraduate students": 19170,
+    "Net Price **": "$32,892.00"
+  },
+
+]

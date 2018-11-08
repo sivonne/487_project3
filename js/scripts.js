@@ -43,14 +43,144 @@ $('#ajax-table').DataTable({
 
 */
 
+var url = '/js/unisAcrossCountry.json';
+var data = [];
 
-
+// $.ajax({
+//   type: 'GET',
+//   dataType: "json",
+//   url: url,
+//   data: data,
+//   success: function(data) {
+//     // Instantiate the map
+//     Highcharts.mapChart('container', {
+//       //Initialize variables
+//
+//      chart: {
+//          map: 'countries/us/us-all',
+//          borderWidth: 1
+//      },
+//
+//      title: {
+//          text: 'AASPs by State'
+//      },
+//
+//      exporting: {
+//          sourceWidth: 600,
+//          sourceHeight: 500
+//      },
+//
+//      legend: {
+//          layout: 'horizontal',
+//          borderWidth: 0,
+//          backgroundColor: 'rgba(255,255,255,0.85)',
+//          floating: true,
+//          verticalAlign: 'top',
+//          y: 25
+//      },
+//
+//      mapNavigation: {
+//          enabled: true
+//      },
+//
+//      colorAxis: {
+//          min: 1,
+//          type: 'logarithmic',
+//          minColor: '#EEEEFF',
+//          maxColor: '#000022',
+//          stops: [
+//              [0, '#EFEFFF'],
+//              [0.67, '#4444FF'],
+//              [1, '#000022']
+//          ]
+//      },
+//
+//      series: [{
+//          animation: {
+//              duration: 1000
+//          },
+//          data: data,
+//          joinBy: ['postal-code', 'code'],
+//          dataLabels: {
+//              enabled: true,
+//              color: '#FFFFFF',
+//              format: '{point.uni-name}'
+//          },
+//          name: 'University Information',
+//          tooltip: {
+//              pointFormat: '{point.uni-name}: {point.awards}'
+//          }
+//      }]
+//
+//     });
+//   }
+// });
 
 //High Maps JS
-$.getJSON('js/unisAcrossCountry.json', function (data) {
+$.getJSON('/js/stateunis.json', function (data) {
+
+// // Instantiate the map
+// Highcharts.mapChart('container', {
+//   //Initialize variables
+//
+//  chart: {
+//      map: 'countries/us/us-all',
+//      borderWidth: 1
+//  },
+//
+//  title: {
+//      text: 'AASPs by State'
+//  },
+//
+//  exporting: {
+//      sourceWidth: 600,
+//      sourceHeight: 500
+//  },
+//
+//  legend: {
+//      layout: 'horizontal',
+//      borderWidth: 0,
+//      backgroundColor: 'rgba(255,255,255,0.85)',
+//      floating: true,
+//      verticalAlign: 'top',
+//      y: 25
+//  },
+//
+//  mapNavigation: {
+//      enabled: true
+//  },
+//
+//  colorAxis: {
+//      min: 1,
+//      type: 'logarithmic',
+//      minColor: '#EEEEFF',
+//      maxColor: '#000022',
+//      stops: [
+//          [0, '#EFEFFF'],
+//          [0.67, '#4444FF'],
+//          [1, '#000022']
+//      ]
+//  },
+//
+//  series: [{
+//      animation: {
+//          duration: 1000
+//      },
+//      data: data,
+//      joinBy: ['postal-code', 'code'],
+//      dataLabels: {
+//          enabled: true,
+//          color: '#FFFFFF',
+//          format: '{point.code}'
+//      },
+//      name: 'University Information',
+//      tooltip: {
+//          pointFormat: '{point.uni-name}: {point.awards}'
+//      }
+//  }]
 
 // Instantiate the map
-var myChart = Highcharts.mapChart('container', {
+Highcharts.mapChart('container', {
   //Initialize variables
 
  chart: {
@@ -97,7 +227,7 @@ var myChart = Highcharts.mapChart('container', {
          duration: 1000
      },
      data: data,
-     joinBy: ['postal-code', 'code'],
+     joinBy: null,
      dataLabels: {
          enabled: true,
          color: '#FFFFFF',
@@ -105,10 +235,22 @@ var myChart = Highcharts.mapChart('container', {
      },
      name: 'University Information',
      tooltip: {
-         pointFormat: '{point.uni-name}: {point.awards}'
+         pointFormat: '{point.code}: {point.university}'
      }
  }]
 
 });
 });
+//TauCharts
+
+
+
+
+
+
+
+
+
+
+
 });
