@@ -71,10 +71,9 @@ $(function(){
 //
 
 
-var url = '/js/unisAcrossCountry.json';
-var data = [];
+
 //High Maps JS
-$.getJSON('/js/stateunis.json', function (data) {
+$.getJSON('stateunis.json', function (data) {
    // Make codes uppercase to match the map data
       $.each(data, function () {
           this.code = this.code.toUpperCase();

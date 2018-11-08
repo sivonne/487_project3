@@ -12,7 +12,7 @@ h1{
   border-style: solid;
   border-width: thick;
   position:sticky;
-z-index: 1000;
+  z-index: 1000;
 }
 #indented-body{
   padding-left: 5%;
@@ -41,6 +41,7 @@ h2{
   padding-top: 15px;
   padding-bottom: 10px;
   display:flex;
+  align-items: center;
 }
 
 }
@@ -54,7 +55,6 @@ b{
  color: #333;
  font-family: avenir, sans-serif;
  font-size: 12px;
-
 }
 
 #pinned{
@@ -71,6 +71,7 @@ font-weight: 400;
 /*High Maps CSS*/
 #container {
   width:60%;
+  margin-bottom: 5%;
 }
 .loading {
     margin-top: 10em;
@@ -96,6 +97,8 @@ font-weight: 400;
 }*/
 #basic-table{
   margin-top: 10%;
+  margin-bottom: 30px;
+  width:100%;
 }
 
 /*Tau Charts*/
@@ -106,7 +109,7 @@ flex-basis: 50%;
 .box{
   display: flex;
 }
-#section2, #container, #section6{
+#section2, #container, #section6, #basic-table, #section8{
   flex-basis: 50%;
   height:100%;
 }
@@ -116,8 +119,26 @@ flex-basis: 50%;
   padding-left: 10px;
 }
 
-
+/*Responsive Elements*/
 @media only screen and (max-width: 575px) {
+  #author-section{
+    display:grid;
+    grid-template-columns: 20% 80%;
+    grid-template-rows: 1fr;/*sets height of rows*/
+    grid-template-areas:/*designates areas to certain sections*/
+    'icon byline'/*heading*/
+  }
+  #sivonne-pic{
+    grid-area: icon;
+    width:50px;
+    height: 50px;
+  }
+  h3{
+    grid-area: byline;
+
+  }
+
+
   #indented-body{
    margin:2%;
   }
