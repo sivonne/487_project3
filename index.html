@@ -2,23 +2,30 @@
 <html>
 <head>
   <!--meta labels-->
-  <meta charset="UTF-8">
   <meta name="description" content="Project 3 MEJO 487">
   <meta name="keywords" content="MEJO 487, Project 3, HTML, CSS, JQuery, Plugins, AJAX, XML">
   <meta name="author" content="Sivonne Ward">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="text/html; charset=utf-8" http-equiv="content-type">
-  <!--css files-->
-  <link href="css/styles.css" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="https://use.typekit.net/dyr1rcl.css">
 
   <title>Asian-American studies-not "Asian" Studies (nor "American," apparently)</title>
+  <!--dataTables-->
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+  <link rel="stylesheet" href="https://use.typekit.net/dyr1rcl.css">
+  <!--css files-->
+  <link rel="stylesheet" href="css/styles.css" type="text/css"/>
 </head>
 
 <body>
   <h1>The Los Angeles Times</h1>
-  <h2>Asian-American Studies-not Asian Studies (or American, apparently.)</h2>
+  <div id="indented-body">
+  <h2>Asian-American studies-not "Asian" Studies (nor "American," apparently)</h2>
+  <div id="author-section">
+    <img id="sivonne-pic" src="img/resume photo.jpeg"alt="Sivonne Ward photo" />
+    <h3><b>By SIVONNE WARD NOV 06, 2018 | 5:00 PM</h3>
+  </div>
+  <img id="pinned" src="css/board.jpg"alt="Asian Studies board photo" />
   <p id="section1">
     On a campus that hallmarks diversity, it might surprise some that among the vast departments at UNC-Chapel Hill, there is not an Asian-American Studies department.
     </br>
@@ -33,13 +40,6 @@
 <!--population chart for last ___ years, increase in Asian American population in Chapel Hill-->
 
 <div id="chart-pop">
-
-
-
-
-
-
-
 
 </div>
 
@@ -75,13 +75,9 @@ In an interview, Ho said there are three main ways to create a department. Most 
   If fact, if a student was to search for Asian-American majors on the Collegeboard website, which lists 3,770 colleges, they would find 26 colleges total across the nation that offer such a program. If they were to further narrow the results to “the South,” they would find zero.
 </p>
 <!--enter a map with the number of programs in the US-->
-<div id="map-unis">
 
-
-
-
-
-
+<!--map for universities across the country-->
+<div id="container">
 
 </div>
 
@@ -99,21 +95,19 @@ According to Data USA, the five universities in 2016 with the most graduates fro
 </p>
 
 <!--enter a chart with the amount of top Asian-American programs in the country-->
-<div id="table-best-unis">
-  <table id="ajax-table" class="display" style="width:100%">
+  <!--<table id="ajax-table" class="display" style="width:100%">
       <thead>
           <tr>
               <th>Year</th>
-              <th>Ranking of University</th>
               <th>Name of University</th>
-              <th>Degrees Awarded</th>
+              <th>Number of Graduates</th>
           </tr>
       </thead>
-    </table>
-    <div id="Argentina" class="tooltip hidden">
+    </table>-->
+    <!--<div id="Argentina" class="tooltip hidden">
      cool info about argentina
-  </div>
-</div>
+  </div>-->
+
 
 <p id="section5">
   Crescenzi also attended school on the West Coast, at UC-Irvine, “where we had this wonderful and thriving set of Asian American populations,” he said.
@@ -142,15 +136,23 @@ According to Data USA, the five universities in 2016 with the most graduates fro
   3.	Jennifer Yang, UNC-CH student
 </p>
 
+</div>
 
 
+<!--JQuery-->
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 
-
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"
-integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-crossorigin="anonymous"></script>
-
+<!--DataTables-->
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+<!--High Maps-->
+<script src="https://code.highcharts.com/maps/highmaps.js"></script>
+<script src="https://code.highcharts.com/maps/modules/data.js"></script>
+<script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/maps/modules/offline-exporting.js"></script>
+<script src="https://code.highcharts.com/mapdata/countries/us/us-all.js"></script>
+<!--My JS-->
 <script src="js/scripts.js"></script>
+
 
 </body>
 </html>

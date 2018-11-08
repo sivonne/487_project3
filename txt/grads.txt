@@ -1,0 +1,272 @@
+[
+  {
+    "year": 2013,
+    "university_name": "Arizona State University-Tempe",
+    "grads_total": 2
+  },
+  {
+    "year": 2013,
+    "university_name": "California State University-Long Beach",
+    "grads_total": 3
+  },
+  {
+    "year": 2013,
+    "university_name": "California State University-Northridge",
+    "grads_total": 17
+  },
+  {
+    "year": 2013,
+    "university_name": "University of California-Berkeley",
+    "grads_total": 8
+  },
+  {
+    "year": 2013,
+    "university_name": "University of California-Davis",
+    "grads_total": 24
+  },
+  {
+    "year": 2013,
+    "university_name": "University of California-Irvine",
+    "grads_total": 9
+  },
+  {
+    "year": 2013,
+    "university_name": "University of California-Los Angeles",
+    "grads_total": 59
+  },
+  {
+    "year": 2013,
+    "university_name": "University of California-Riverside",
+    "grads_total": 3
+  },
+  {
+    "year": 2013,
+    "university_name": "University of California-Santa Barbara",
+    "grads_total": 29
+  },
+  {
+    "year": 2013,
+    "university_name": "Pomona College",
+    "grads_total": 1
+  },
+  {
+    "year": 2013,
+    "university_name": "San Francisco State University",
+    "grads_total": 32
+  },
+  {
+    "year": 2013,
+    "university_name": "Scripps College",
+    "grads_total": 1
+  },
+  {
+    "year": 2013,
+    "university_name": "University of Denver",
+    "grads_total": 4
+  },
+  {
+    "year": 2013,
+    "university_name": "New York University",
+    "grads_total": 1
+  },
+  {
+    "year": 2013,
+    "university_name": "SUNY at Binghamton",
+    "grads_total": 3
+  },
+  {
+    "year": 2013,
+    "university_name": "Stanford University",
+    "grads_total": 3
+  },
+  {
+    "year": 2014,
+    "university_name": "Arizona State University-Tempe",
+    "grads_total": 1
+  },
+  {
+    "year": 2014,
+    "university_name": "California State University-Long Beach",
+    "grads_total": 3
+  },
+  {
+    "year": 2014,
+    "university_name": "California State University-Northridge",
+    "grads_total": 18
+  },
+  {
+    "year": 2014,
+    "university_name": "University of California-Berkeley",
+    "grads_total": 1
+  },
+  {
+    "year": 2014,
+    "university_name": "University of California-Davis",
+    "grads_total": 24
+  },
+  {
+    "year": 2014,
+    "university_name": "University of California-Irvine",
+    "grads_total": 8
+  },
+  {
+    "year": 2014,
+    "university_name": "University of California-Los Angeles",
+    "grads_total": 39
+  },
+  {
+    "year": 2014,
+    "university_name": "University of California-Riverside",
+    "grads_total": 2
+  },
+  {
+    "year": 2014,
+    "university_name": "University of California-Santa Barbara",
+    "grads_total": 18
+  },
+  {
+    "year": 2014,
+    "university_name": "Pitzer College",
+    "grads_total": 2
+  },
+  {
+    "year": 2014,
+    "university_name": "San Francisco State University",
+    "grads_total": 36
+  },
+  {
+    "year": 2014,
+    "university_name": "Scripps College",
+    "grads_total": 1
+  },
+  {
+    "year": 2014,
+    "university_name": "SUNY at Binghamton",
+    "grads_total": 13
+  },
+  {
+    "year": 2015,
+    "university_name": "California State University-Long Beach",
+    "grads_total": 7
+  },
+  {
+    "year": 2015,
+    "university_name": "California State University-Northridge",
+    "grads_total": 8
+  },
+  {
+    "year": 2015,
+    "university_name": "University of California-Berkeley",
+    "grads_total": 2
+  },
+  {
+    "year": 2015,
+    "university_name": "University of California-Davis",
+    "grads_total": 18
+  },
+  {
+    "year": 2015,
+    "university_name": "University of California-Irvine",
+    "grads_total": 16
+  },
+  {
+    "year": 2015,
+    "university_name": "University of California-Los Angeles",
+    "grads_total": 37
+  },
+  {
+    "year": 2015,
+    "university_name": "University of California-Riverside",
+    "grads_total": 4
+  },
+  {
+    "year": 2015,
+    "university_name": "University of California-Santa Barbara",
+    "grads_total": 8
+  },
+  {
+    "year": 2015,
+    "university_name": "Pitzer College",
+    "grads_total": 1
+  },
+  {
+    "year": 2015,
+    "university_name": "San Francisco State University",
+    "grads_total": 25
+  },
+  {
+    "year": 2015,
+    "university_name": "Scripps College",
+    "grads_total": 1
+  },
+  {
+    "year": 2015,
+    "university_name": "University of Denver",
+    "grads_total": 2
+  },
+  {
+    "year": 2015,
+    "university_name": "SUNY at Binghamton",
+    "grads_total": 17
+  },
+  {
+    "year": 2015,
+    "university_name": "Stanford University",
+    "grads_total": 1
+  },
+  {
+    "year": 2016,
+    "university_name": "California State University-Long Beach",
+    "grads_total": 3
+  },
+  {
+    "year": 2016,
+    "university_name": "California State University-Northridge",
+    "grads_total": 9
+  },
+  {
+    "year": 2016,
+    "university_name": "University of California-Davis",
+    "grads_total": 15
+  },
+  {
+    "year": 2016,
+    "university_name": "University of California-Irvine",
+    "grads_total": 13
+  },
+  {
+    "year": 2016,
+    "university_name": "University of California-Los Angeles",
+    "grads_total": 31
+  },
+  {
+    "year": 2016,
+    "university_name": "University of California-Riverside",
+    "grads_total": 4
+  },
+  {
+    "year": 2016,
+    "university_name": "University of California-Santa Barbara",
+    "grads_total": 12
+  },
+  {
+    "year": 2016,
+    "university_name": "San Francisco State University",
+    "grads_total": 25
+  },
+  {
+    "year": 2016,
+    "university_name": "Scripps College",
+    "grads_total": 1
+  },
+  {
+    "year": 2016,
+    "university_name": "University of Denver",
+    "grads_total": 2
+  },
+  {
+    "year": 2016,
+    "university_name": "SUNY at Binghamton",
+    "grads_total": 13
+  }
+]
