@@ -1,6 +1,10 @@
 $(function(){
   console.log('scripts loaded');
   //THE BASIC HIGHCHART PASTE JOB WITH HARD-CODED ARRAY
+
+
+  $('#basic-table').DataTable();
+
    // var myChart = Highcharts.chart('#basic-table', {
    //        chart: {
    //            type: 'bar'

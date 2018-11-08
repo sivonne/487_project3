@@ -80,7 +80,7 @@ font-weight: 400;
 
 
 /*Data Table CSS*/
-#ajax-table{
+/*#ajax-table{
   margin-bottom: 25px;
 }
 #Argentina{
@@ -93,6 +93,9 @@ font-weight: 400;
 }
 .hidden{
   opacity: 0;
+}*/
+#basic-table{
+  margin-top: 10%;
 }
 
 /*Tau Charts*/
