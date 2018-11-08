@@ -70,10 +70,7 @@ font-weight: 400;
 }
 /*High Maps CSS*/
 #container {
-    height: 500px;
-    min-width: 310px;
-    max-width: 600px;
-    margin: 0 auto;
+  width:60%;
 }
 .loading {
     margin-top: 10em;
@@ -103,10 +100,14 @@ font-weight: 400;
 flex-basis: 50%;
 }
 /*want to wrap text around the graph*/
-#box{
+.box{
   display: flex;
 }
-#section2{
+#section2, #container, #section5{
   flex-basis: 50%;
+}
 
+#section5{
+  flex-basis: 50%;
+  padding-left: 10px;
 }

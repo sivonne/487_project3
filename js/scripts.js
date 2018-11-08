@@ -131,7 +131,7 @@ Highcharts.mapChart('container', {
      borderWidth: 1
  },
  title: {
-     text: 'AASPs by State'
+     text: 'Asian-American Studies Programs by State'
  },
 
  exporting: {
