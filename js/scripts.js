@@ -1,85 +1,16 @@
 $(function(){
   console.log('scripts loaded');
-  //THE BASIC HIGHCHART PASTE JOB WITH HARD-CODED ARRAY
+//Data Tables Plugin
+//THE BASIC HIGHCHART PASTE JOB WITH HARD-CODED ARRAY
+$('#basic-table').DataTable();
 
-
-  $('#basic-table').DataTable();
-
-   // var myChart = Highcharts.chart('#basic-table', {
-   //        chart: {
-   //            type: 'bar'
-   //        },
-   //        title: {
-   //            text: 'Fruit Consumption'
-   //        },
-   //        subtitle:{
-   //          text: 'Fucking Love Fruit'
-   //        },
-   //        xAxis: {
-   //            categories: ['Apples', 'Bananas', 'Oranges']//NOTICE THIS IS AN ARRAY
-   //        },
-   //        yAxis: {
-   //            title: {
-   //                text: 'Fruit eaten'
-   //            }
-   //        },
-   //        series: [{
-   //            name: 'Jane',//DELETE THIS AND SEE HOW THE CHART CHANGES
-   //            data: [1, 0, 4]//HOVER OVER THE BARS TO SEE WHAT THESE NUMBERS REPRESENT
-   //        }, {
-   //            name: 'John',
-   //            data: [5, 7, 3]
-   //        }]//ADD ANOTHER OBJECT AND SEE HOW IT CHANGES
-   //    });
-// $('#ajax-table').DataTable({
-//     "ajax": {
-//       "url": "/txt/grads.txt",
-//       "dataSrc": ''
-//   },
-//     "columns": [
-//       {"data": "Year"},
-//       {"data":"University Name"},
-//       {"data":"Grads Total"}
-//     ],
-//     "columnDefs":[{
-//        "targets":[0, 3],
-//        "createdCell": function(td, cellData, rowData, row, col){
-//          if(cellData > 5){
-//            $(td).css('color', 'red');
-//          }//close if statement
-//          $(td).on({
-//            mouseenter: function(){
-//              var txt = $(this).text();
-//              $('#' + txt).toggleClass('hidden');
-//            },
-//            mouseleave: function(){
-//              var txt = $(this).text();
-//              $('#' + txt).toggleClass('hidden');
-//            }
-//
-//          });//close on method
-//
-//
-//
-//        }//close createdCell
-//
-//     }]//close columnDefs
-//
-//
-//
-// });//close dataTable
-//
-
-
-
-//High Maps JS
+//High Maps JS Plugin
 $.getJSON('stateunis.json', function (data) {
    // Make codes uppercase to match the map data
       $.each(data, function () {
           this.code = this.code.toUpperCase();
       });
-      // Instantiate the map
-
+  // Instantiate the map
 Highcharts.mapChart('container', {
   //Initialize variables
  chart: {
@@ -140,7 +71,7 @@ Highcharts.mapChart('container', {
 });
 });
 
-
+//Taucharts JS Plugin
 var url = 'js/demographics-reformatted.json';
 var demographics = '';
 
@@ -187,41 +118,3 @@ success:function(demographics){
         }
         });
 });
-
-//TauCharts
-
-// var url = 'js/demographics-reformatted.json';
-// var race = '';
-// var year = '';
-// var percent = '';
-//
-// $.ajax({
-// type:'GET',
-// url:url,
-// data:percent,
-// async: true,
-// dataType:'json',
-// success:function(percent){
-//   console.log(percent);
-// var chart = new Taucharts.Chart({
-//
-//     type: 'stacked-bar',
-//     y: "year",
-//     x: "race",
-//     color: 'stage',
-//     data:percent,
-//
-//
-//     /*plugins:[Taucharts.api.plugins.get('tooltip')({
-//                     fields:['name', 'Infant Mortality Rate', 'Life Expectancy', 'Per Capita GDP', 'Obesity Rate', 'Unemployment Rate']
-//                   }),
-//                   Taucharts.api.plugins.get('legend')()
-//                 ]*/
-//
-//
-//
-// });
-//
-// chart.renderTo('#bar');
-// }
-// });

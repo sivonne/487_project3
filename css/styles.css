@@ -67,6 +67,7 @@ h2{
   font-style: normal;
   font-size:44px;
 }
+/*author image padding and size*/
 #sivonne-pic{
   width: 5%;
   height: 3%;
@@ -75,6 +76,7 @@ h2{
   border-right-style: solid;
   margin-right: 1%;
 }
+/*sets up byline section*/
 #author-section{
   border-top-style: solid;
   border-top-width: 1px;
@@ -87,26 +89,26 @@ h2{
   display:flex;
   align-items: center;
 }
-
-}
-h3{
-  font-family: avenir, sans-serif;
-  font-weight: 400;
-  color: #E5E5E5;
-  font-size: 12px;
- }
-b{
- color: #333;
- font-family: avenir, sans-serif;
- font-size: 12px;
-}
-
+/*sets up byline heading*/
+  h3{
+    font-family: avenir, sans-serif;
+    font-weight: 400;
+    color: #E5E5E5;
+    font-size: 12px;
+   }
+   /*sets up bolded part of byline heading*/
+  b{
+   color: #333;
+   font-family: avenir, sans-serif;
+   font-size: 12px;
+  }
+/*sets up large photo size and padding*/
 #pinned{
   width:80%;
   padding-top: 2%;
 }
+/*sets up paragraph font and color*/
 p{
-
 font-family: Georgia,serif;
 line-height: 26px;
 color: #000;
@@ -114,38 +116,27 @@ font-size: 18px;
 font-weight: 400;
 }
 /*High Maps CSS*/
-#container {
-  width:60%;
-  margin-bottom: 5%;
-}
-.loading {
-    margin-top: 10em;
-    text-align: center;
-    color: gray;
-}
-
-
-/*Data Table CSS*/
-/*#ajax-table{
-  margin-bottom: 25px;
-}
-#Argentina{
-  position:absolute;
-  top:25%;
-  left:10%;
-  background:#fff;
-  border:1px solid;
-  box-shadow: 5px 5px 5px #eee;
-}
-.hidden{
-  opacity: 0;
-}*/
+  #container {
+    width:60%;
+    margin-bottom: 5%;
+  }
+  .loading {
+      margin-top: 10em;
+      text-align: center;
+      color: gray;
+  }
+/*Data Tables CSS*/
 #basic-table{
   margin-top: 10px;
   width:70%;
   height:60%;
-
 }
+/*sets up paragraph section 6 margin*/
+#section6{
+  flex-basis: 50%;
+  padding-left: 10px;
+}
+/*sets up paragraph section 8 margin*/
 #section8{
   margin-left: 20px;
 }
@@ -154,23 +145,19 @@ font-weight: 400;
 #results{
 flex-basis: 50%;
 }
-/*want to wrap text around the graph*/
+/*wraps text around the graphs/table to fit style*/
 .box{
   display: flex;
 }
+/*sets up paragraph flex sizing*/
 #section2, #container, #section6, #basic-table, #section8{
   flex-basis: 50%;
   height:100%;
 }
-
-#section6{
-  flex-basis: 50%;
-  padding-left: 10px;
-}
+/*sets up box surrounding table for margins*/
 #table-formatting{
   padding-bottom: .5px;
 }
-
 /*Responsive Elements*/
 @media only screen and (max-width: 575px) {
   #author-section{
@@ -180,35 +167,38 @@ flex-basis: 50%;
     grid-template-areas:/*designates areas to certain sections*/
     'icon byline'/*heading*/
   }
-  #sivonne-pic{
-    grid-area: icon;
-    width:50px;
-    height: 50px;
-  }
-  h3{
-    grid-area: byline;
-  }
+  /*makes mobile view organize byline*/
+    #sivonne-pic{
+      grid-area: icon;
+      width:50px;
+      height: 50px;
+    }
+    h3{
+      grid-area: byline;
+    }
+    /*hides parts of navbar that don't show on mobile*/
   #search, #news-heading, #ad-icon, #log-in-heading {
     display:none;
   }
-
+  /*changes size of LA Times heading*/
   h1{
   align-content: center;
   font-size: 18px;
-}
-
-    #indented-body{
-     margin:2%;
-    }
-    .box {
-      display:block;
-    }
-    #container{
-      width:100%;
-      margin-right:3%;
-    }
-    #results{
+  }
+  /*hides parts of navbar that don't show on mobile*/
+  #indented-body{
+    margin:2%;
+  }
+  .box {
+    display:block;
+  }
+  /*adjusts width for graphs*/
+  #container{
     width:100%;
-    height:100%;
+    margin-right:3%;
+  }
+  #results{
+   width:100%;
+   height:100%;
     }
 }
