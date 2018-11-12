@@ -56,9 +56,12 @@ h5{
   padding-left: 5px;
 
 }
+
 /*sets up indented body*/
 #indented-body{
   padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
 }
 /*sets up article heading*/
 h2{
@@ -93,7 +96,7 @@ h2{
   h3{
     font-family: avenir, sans-serif;
     font-weight: 400;
-    color: #E5E5E5;
+    color: #999;
     font-size: 12px;
    }
    /*sets up bolded part of byline heading*/
@@ -101,6 +104,7 @@ h2{
    color: #333;
    font-family: avenir, sans-serif;
    font-size: 12px;
+   font-weight: 400;
   }
 /*sets up large photo size and padding*/
 #pinned{
@@ -114,49 +118,76 @@ line-height: 26px;
 color: #000;
 font-size: 18px;
 font-weight: 400;
+display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+/*wraps text around the graphs/table to fit style*/
+.box{
+  display: flex;
+  margin-bottom: 3%;
+
+}
+/*Tau Charts*/
+#results{
+  width:90%;
+  height:90%;
+
+}
+#tau-chart-and-source{
+  flex-basis: 40%;
+}
+#section2{
+  flex-basis:60%;
 }
 /*High Maps CSS*/
   #container {
-    width:60%;
-    margin-bottom: 5%;
+  width:450px;
+
   }
   .loading {
       margin-top: 10em;
       text-align: center;
       color: gray;
   }
+  #high-map-and-source{
+    flex-basis: 20%;
+  }
+  #section6{
+    flex-basis:80%;
+  }
 /*Data Tables CSS*/
 #basic-table{
   margin-top: 10px;
-  width:70%;
   height:60%;
 }
-/*sets up paragraph section 6 margin*/
-#section6{
-  flex-basis: 50%;
-  padding-left: 10px;
+#table-and-source{
+  flex-basis: 40%;
 }
-/*sets up paragraph section 8 margin*/
 #section8{
-  margin-left: 20px;
+  flex-basis:60%;
+  padding-left:5%;
+}
+#tau-chart-and-source,   #high-map-and-source, #table-and-source{
+  margin-right:5%;
+  margin-bottom: 2%;
+
 }
 
-/*Tau Charts*/
-#results{
-flex-basis: 50%;
+/*sets up font for header for graphs*/
+.graph-header{
+  font-family: trade-gothic-next, sans-serif;
+  font-style: normal;
+  font-weight: 300;
 }
-/*wraps text around the graphs/table to fit style*/
-.box{
-  display: flex;
-}
-/*sets up paragraph flex sizing*/
-#section2, #container, #section6, #basic-table, #section8{
-  flex-basis: 50%;
-  height:100%;
-}
-/*sets up box surrounding table for margins*/
-#table-formatting{
-  padding-bottom: .5px;
+/*sets up source caption for graphs*/
+#sourcing{
+  font-family: trade-gothic-next, sans-serif;
+  font-style: normal;
+  font-weight: 300;
 }
 /*Responsive Elements*/
 @media only screen and (max-width: 575px) {
@@ -202,3 +233,4 @@ flex-basis: 50%;
    height:100%;
     }
 }
+/*Images from screenshots from LA Times website for logos/icons for navbar. Based style off of this article: http://www.latimes.com/local/lanow/la-me-ln-latino-elections-20181104-story.html*/
